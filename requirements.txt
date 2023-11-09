@@ -1,0 +1,4 @@
+firebase-rest-api
+adafruit-circuitpython-si7021
+board
+
